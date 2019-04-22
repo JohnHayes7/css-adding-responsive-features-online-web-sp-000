@@ -29,7 +29,8 @@
     }
     
   #col-3 p{
-    col
+    
+    column-count: 2;
   }
   }
 }
