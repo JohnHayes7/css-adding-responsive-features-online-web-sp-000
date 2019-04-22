@@ -41,6 +41,8 @@
     }
     
     .col-3 p{
+      -webkit-column-count: 1;
+      -moz-column-count: 1;
       column-count: 1;
     }
  
