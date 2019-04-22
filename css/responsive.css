@@ -19,4 +19,8 @@
     height: 35%;
     width: 35%;
   }
+  
+  #logo h2{
+    font-size: 2.2em;
+  }
 }
